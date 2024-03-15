@@ -1,0 +1,19 @@
+body{
+    background-image: url(png.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    text-align: center;
+    font-size:50px;
+}
+.mains{
+    display: flex;
+    justify-content: space-around;
+}
+.intern{
+    text-align:center;
+}
+img{
+    border-radius:20% 20% 20% 20%;
+}
